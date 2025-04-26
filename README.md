@@ -1,5 +1,25 @@
-# React + Vite
+# Facial Emotion Detection App 😄😢😡
 
+This is a real-time facial emotion detection web app built using React, TensorFlow.js, and face-api.js.
+
+## Features
+- Detects emotions like Happy, Sad, Angry, Surprise, Neutral, etc.
+- Real-time video stream from the webcam.
+- Displays emotion percentages.
+- Lightweight and fast.
+
+## Technologies Used
+- React
+- TensorFlow.js
+- face-api.js
+- Vite (for fast React development)
+
+## How to Run Locally
+In your terminal type and run this two command one by one:
+npm install
+npm run dev
+
+# React + Vite
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
 Currently, two official plugins are available:
